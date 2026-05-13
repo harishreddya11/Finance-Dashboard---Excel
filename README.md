@@ -1,21 +1,25 @@
-Overview
+**FINANCE DASHBOARD -- EXCEL**
+
+**Overview**
 
 This project focuses on financial data analysis and dashboard development using Microsoft Excel. The dashboard provides insights into revenue, expenses, profit trends, and overall financial performance through interactive visualizations.
 
-Tools Used
+**Tools Used**
 Microsoft Excel
 Power Pivot
 Power Query
 Pivot Tables
 Pivot Charts
 Slicers
-Features
+
+**Features**
 Interactive financial dashboard
 KPI tracking and reporting
 Revenue and expense analysis
 Profit trend visualization
 Dynamic filtering using slicers
-Skills Demonstrated
+
+**Skills Demonstrated**
 Financial Data Analysis
 Data Cleaning
 Data Visualization
